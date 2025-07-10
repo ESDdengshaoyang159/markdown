@@ -10,6 +10,7 @@ Markdown文件读取器 (Markdown Reader)
 
 ### 1.3 项目目标
 开发一个功能完善、用户友好的Markdown文件读取软件，支持本地文件读取、内容解析、格式化显示等核心功能。
+![image](https://github.com/user-attachments/assets/cff86123-40f4-4887-8136-7d93fc134926)
 
 ## 2. 功能需求
 

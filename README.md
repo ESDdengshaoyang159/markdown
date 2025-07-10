@@ -1,18 +1,12 @@
-# markdown
-使用python语言编写的markdown文件读取器，目前还未完善检索关键词的功能，后续会继续完善。/The Markdown file reader written in Python language has not yet completed the function of searching keywords, and will continue to improve it in the future.
 # Markdown文件读取软件开发需求文档
 
 ## 1. 项目概述
 
 ### 1.1 项目名称
 Markdown文件读取器 (Markdown Reader)
-本项目旨在开发一个功能完善、用户友好的Markdown文件读取软件，支持本地文件读取、内容解析、格式化显示等核心功能。
-本项目完全开源，任何人都可以免费使用、修改和分发。
-希望这个项目能够帮助你更好地阅读Markdown文件。
-更多开源计划请关注（ESD-IT001，抖音号364395102）
-一起无限进步！
+
 ### 1.2 项目背景
-随着技术文档、博客、说明文件等越来越多地采用Markdown格式，需要开发一个专门的软件来高效地读取、解析和展示Markdown文件内容。主要之前本人用的盗版阅读器，被修复了，导致我们无法使用，所以我自己开发了一个。
+随着技术文档、博客、说明文件等越来越多地采用Markdown格式，需要开发一个专门的软件来高效地读取、解析和展示Markdown文件内容。
 
 ### 1.3 项目目标
 开发一个功能完善、用户友好的Markdown文件读取软件，支持本地文件读取、内容解析、格式化显示等核心功能。
